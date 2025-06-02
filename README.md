@@ -12,8 +12,11 @@ An intelligent tool that automatically reviews and provides feedback on your sou
 
 ## Installation
 
-git clone https://github.com/Ashutoshgola/ai-code-reviewer.git
+# Clone the repository
+git clone https://github.com/Ashutoshgola/ai_codeReviewer.git
+
+# Change directory into the project folder
 cd ai-code-reviewer
+
 # Install dependencies
 npm install
-
