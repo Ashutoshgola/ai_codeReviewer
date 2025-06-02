@@ -12,7 +12,7 @@ An intelligent tool that automatically reviews and provides feedback on your sou
 
 ## Installation
 
-git clone https://github.com/your-username/ai-code-reviewer.git
+git clone https://github.com/Ashutoshgola/ai-code-reviewer.git
 cd ai-code-reviewer
 # Install dependencies
 npm install
